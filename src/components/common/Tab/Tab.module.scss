@@ -1,0 +1,61 @@
+@import "../../../asset/scss/color.scss";
+.active{
+  color: #ffffff;
+  border-bottom: 2px solid #fff;
+}
+.menu {
+  margin-top: 80px;
+  .menu__item {
+    position: relative;
+    color: rgb(116, 116, 116);
+    font-size: 20px;
+    margin: 20px;
+    margin-left: 0px;
+    font-weight: bold;
+    cursor: pointer;
+    &::after {
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 0;
+      height: 2px;
+      background: $primary;
+      content: "";
+      transition: width 0.2s;
+      color: $color3;
+    }
+    &:hover {
+      color:white;
+    }
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+  .nav {
+    .navbar__toggle {
+      display: block;
+    }
+    .collapse {
+      background-color: black;
+    }
+    .collapse .menu {
+      display: flex;
+    }
+    .menu {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      background-color: $white;
+      top: 80px;
+      left: 0;
+      right: 0;
+      border-top: solid 1px $color2;
+      padding: 15px 20px 20px 20px;
+      .menu__item {
+        margin: 5px 0;
+        padding: 5px 2px;
+      }
+    }
+  }
+}

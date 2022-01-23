@@ -1,0 +1,75 @@
+@import '../../asset/scss/color.scss';
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: $color3;
+  height: 90px;
+  background-color: #333333;
+  z-index: 1000;
+}
+
+.test {
+  width: 100%;
+  height: 14px;
+}
+.test::-webkit-progress-value {
+  background: white;
+}
+
+.marquee {
+  height: 30px;
+  overflow: hidden;
+  position: relative;
+  background: transparent;
+  color: rgb(255, 255, 255);
+  width: 100%;
+}
+
+.marquee p {
+  position: absolute;
+  width: 230px;
+  height: 100%;
+  margin: 0;
+  line-height: 50px;
+  text-align: center;
+  -moz-transform: translateX(100%);
+  -webkit-transform: translateX(100%);
+  transform: translateX(100%);
+  -moz-animation: scroll-left 1s linear infinite;
+  -webkit-animation: scroll-left 1s linear infinite;
+  animation: scroll-left 6s linear infinite;
+}
+
+@-moz-keyframes scroll-left {
+  0% {
+    -moz-transform: translateX(100%);
+  }
+  100% {
+    -moz-transform: translateX(-100%);
+  }
+}
+
+@-webkit-keyframes scroll-left {
+  0% {
+    -webkit-transform: translateX(100%);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+  }
+}
+
+@keyframes scroll-left {
+  0% {
+    -moz-transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+  }
+  100% {
+    -moz-transform: translateX(-100%);
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}

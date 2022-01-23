@@ -1,0 +1,91 @@
+@import '../../../asset/scss/color.scss';
+.listFeature {
+  margin-bottom: 2rem;
+  border-top: solid 1px $color3;
+  border-bottom: solid 1px $color3;
+}
+.description {
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  color: #ffffff;
+  padding: 16px 0px;
+  text-align: start;
+}
+.feature_image {
+  display: grid;
+  grid-template-columns:
+    [start] minmax(0px, 1fr) [first-col-end] repeat(5, minmax(0px, 1fr))
+    [middle] repeat(5, minmax(0px, 1fr)) [last-col-start] minmax(0px, 1fr) [end];
+  column-gap: 2rem;
+  row-gap: 1rem;
+  align-items: start;
+  .feature_music {
+    max-height: 200px;
+    grid-column-end: span 2;
+    margin: 20px 0px;
+  }
+  button {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    border: 0px;
+    background: none;
+    .feature_1 {
+      position: relative;
+      display: flex;
+      -webkit-box-pack: center;
+      justify-content: center;
+    }
+    .feature_1::before {
+      content: '';
+      display: inline-block;
+      width: 0px;
+      height: 0px;
+      padding-bottom: 100%;
+    }
+  }
+}
+.feature {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  background-color: rgb(51, 51, 51);
+  transition: filter 0.2s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+  img {
+    object-fit: cover;
+  }
+}
+.slug {
+  margin-top: 6px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: start;
+  padding: 4px 2px;
+}
+.title {
+  font-family: Epidemic, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: rgb(255, 255, 255);
+  margin-top: 1rem;
+  text-transform: capitalize;
+  text-align: left;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+@media screen and (max-width: 768px) {
+  .feature_image {
+    display: grid;
+    grid-template-columns:
+      [start] minmax(0px, 1fr) [first-col-end] repeat(2, minmax(0px, 1fr))
+      [middle] repeat(2, minmax(0px, 1fr)) [last-col-start] minmax(0px, 1fr) [end];
+    column-gap: 2rem;
+    row-gap: 3rem;
+  }
+}

@@ -1,0 +1,586 @@
+2022-01-06 10:21:59 859: ^C
+2022-01-06 10:24:36 871: ^C
+2022-01-06 10:45:52 818: ^C
+2022-01-06 10:45:55 251: ^C
+2022-01-06 10:46:03 246: ^C
+2022-01-06 11:52:13 333: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:52:13 334: Require stack:
+2022-01-06 11:52:13 334: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:52:13 334: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:52:13 334: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:52:13 334: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:52:13 334: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:52:13 334: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:52:13 334: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:52:13 334:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:52:13 334:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:52:13 334:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:52:13 334:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:52:13 334:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:52:13 334:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:52:13 334:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:52:13 334:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:52:13 334:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1704:37)
+2022-01-06 11:52:13 334:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1680:41) {
+2022-01-06 11:52:13 334:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:52:13 334:   requireStack: [
+2022-01-06 11:52:13 334:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:52:13 334:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:52:13 334:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:52:13 334:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:52:13 334:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:52:13 334:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:52:13 334:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:52:13 334:   ]
+2022-01-06 11:52:13 334: }
+2022-01-06 11:52:13 357: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:52:13 357: Require stack:
+2022-01-06 11:52:13 357: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:52:13 358: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:52:13 358: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:52:13 358: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:52:13 358: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:52:13 358: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:52:13 358: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:52:13 358:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:52:13 358:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:52:13 358:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:52:13 358:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:52:13 358:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:52:13 358:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:52:13 358:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:52:13 358:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:52:13 358:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1709:37)
+2022-01-06 11:52:13 358:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1651:41) {
+2022-01-06 11:52:13 358:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:52:13 358:   requireStack: [
+2022-01-06 11:52:13 358:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:52:13 358:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:52:13 358:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:52:13 358:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:52:13 358:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:52:13 358:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:52:13 358:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:52:13 358:   ]
+2022-01-06 11:52:13 358: }
+2022-01-06 11:52:13 359: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:52:13 359: Require stack:
+2022-01-06 11:52:13 359: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:52:13 359: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:52:13 359: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:52:13 359: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:52:13 359: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:52:13 359: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:52:13 359: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:52:13 359:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:52:13 359:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:52:13 359:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:52:13 359:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:52:13 359:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:52:13 359:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:52:13 360:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:52:13 360:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:52:13 360:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1602:39)
+2022-01-06 11:52:13 360:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1219:38) {
+2022-01-06 11:52:13 360:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:52:13 360:   requireStack: [
+2022-01-06 11:52:13 360:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:52:13 360:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:52:13 360:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:52:13 360:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:52:13 360:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:52:13 360:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:52:13 360:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:52:13 361:   ]
+2022-01-06 11:52:13 362: }
+2022-01-06 11:52:16 379: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:52:16 379: Require stack:
+2022-01-06 11:52:16 379: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:52:16 379: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:52:16 379: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:52:16 379: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:52:16 379: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:52:16 379: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:52:16 379: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:52:16 379:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:52:16 379:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:52:16 379:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:52:16 379:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:52:16 379:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:52:16 379:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:52:16 379:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:52:16 379:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:52:16 379:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1709:37)
+2022-01-06 11:52:16 379:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1651:41) {
+2022-01-06 11:52:16 380:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:52:16 380:   requireStack: [
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:52:16 380:   ]
+2022-01-06 11:52:16 380: }
+2022-01-06 11:52:16 380: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:52:16 380: Require stack:
+2022-01-06 11:52:16 380: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:52:16 380: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:52:16 380: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:52:16 380: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:52:16 380: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:52:16 380: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:52:16 380: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:52:16 380:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:52:16 380:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:52:16 380:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:52:16 380:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:52:16 380:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:52:16 380:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:52:16 380:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:52:16 380:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:52:16 380:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1602:39)
+2022-01-06 11:52:16 380:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1219:38) {
+2022-01-06 11:52:16 380:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:52:16 380:   requireStack: [
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:52:16 380:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:52:16 380:   ]
+2022-01-06 11:52:16 380: }
+2022-01-06 11:52:19 268: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:52:19 268: Require stack:
+2022-01-06 11:52:19 268: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:52:19 268: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:52:19 268: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:52:19 268: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:52:19 268: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:52:19 268: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:52:19 268: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:52:19 268:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:52:19 268:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:52:19 268:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:52:19 268:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:52:19 268:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:52:19 268:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:52:19 268:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:52:19 268:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:52:19 268:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1709:37)
+2022-01-06 11:52:19 268:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1651:41) {
+2022-01-06 11:52:19 268:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:52:19 268:   requireStack: [
+2022-01-06 11:52:19 268:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:52:19 268:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:52:19 268:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:52:19 268:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:52:19 268:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:52:19 268:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:52:19 268:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:52:19 268:   ]
+2022-01-06 11:52:19 268: }
+2022-01-06 11:52:19 269: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:52:19 269: Require stack:
+2022-01-06 11:52:19 269: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:52:19 269: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:52:19 269: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:52:19 269: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:52:19 269: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:52:19 269: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:52:19 269: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:52:19 269:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:52:19 269:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:52:19 269:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:52:19 269:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:52:19 269:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:52:19 269:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:52:19 269:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:52:19 269:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:52:19 269:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1602:39)
+2022-01-06 11:52:19 269:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1219:38) {
+2022-01-06 11:52:19 269:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:52:19 269:   requireStack: [
+2022-01-06 11:52:19 269:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:52:19 269:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:52:19 269:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:52:19 269:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:52:19 269:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:52:19 269:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:52:19 269:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:52:19 269:   ]
+2022-01-06 11:52:19 269: }
+2022-01-06 11:53:21 820: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:53:21 821: Require stack:
+2022-01-06 11:53:21 821: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:53:21 821: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:53:21 821: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:53:21 821: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:53:21 821: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:53:21 821: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:53:21 821: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:53:21 821:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:53:21 821:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:53:21 821:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:53:21 821:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:53:21 821:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:53:21 821:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:53:21 821:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:53:21 821:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:53:21 821:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1704:37)
+2022-01-06 11:53:21 821:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1680:41) {
+2022-01-06 11:53:21 821:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:53:21 821:   requireStack: [
+2022-01-06 11:53:21 821:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:53:21 821:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:53:21 821:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:53:21 821:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:53:21 821:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:53:21 821:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:53:21 821:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:53:21 821:   ]
+2022-01-06 11:53:21 821: }
+2022-01-06 11:53:21 823: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:53:21 823: Require stack:
+2022-01-06 11:53:21 823: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:53:21 823: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:53:21 823: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:53:21 823: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:53:21 823: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:53:21 823: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:53:21 823: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:53:21 823:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:53:21 823:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:53:21 823:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:53:21 823:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:53:21 823:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:53:21 823:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:53:21 823:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:53:21 823:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:53:21 823:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1704:37)
+2022-01-06 11:53:21 823:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1680:41) {
+2022-01-06 11:53:21 823:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:53:21 824:   requireStack: [
+2022-01-06 11:53:21 824:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:53:21 824:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:53:21 824:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:53:21 824:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:53:21 824:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:53:21 824:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:53:21 824:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:53:21 824:   ]
+2022-01-06 11:53:21 824: }
+2022-01-06 11:53:21 826: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:53:21 826: Require stack:
+2022-01-06 11:53:21 826: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:53:21 826: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:53:21 826: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:53:21 826: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:53:21 827: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:53:21 827: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:53:21 827: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:53:21 827:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:53:21 827:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:53:21 827:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:53:21 827:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:53:21 827:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:53:21 827:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:53:21 827:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:53:21 827:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:53:21 827:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1704:37)
+2022-01-06 11:53:21 827:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1680:41) {
+2022-01-06 11:53:21 827:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:53:21 827:   requireStack: [
+2022-01-06 11:53:21 827:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:53:21 827:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:53:21 827:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:53:21 827:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:53:21 827:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:53:21 827:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:53:21 827:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:53:21 827:   ]
+2022-01-06 11:53:21 827: }
+2022-01-06 11:53:21 830: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:53:21 830: Require stack:
+2022-01-06 11:53:21 830: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:53:21 830: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:53:21 830: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:53:21 830: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:53:21 830: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:53:21 830: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:53:21 830: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:53:21 830:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:53:21 830:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:53:21 830:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:53:21 830:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:53:21 830:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:53:21 830:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:53:21 830:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:53:21 830:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:53:21 830:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1704:37)
+2022-01-06 11:53:21 830:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1680:41) {
+2022-01-06 11:53:21 830:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:53:21 830:   requireStack: [
+2022-01-06 11:53:21 830:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:53:21 830:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:53:21 830:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:53:21 830:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:53:21 831:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:53:21 831:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:53:21 831:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:53:21 831:   ]
+2022-01-06 11:53:21 831: }
+2022-01-06 11:53:21 836: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:53:21 836: Require stack:
+2022-01-06 11:53:21 836: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:53:21 836: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:53:21 836: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:53:21 836: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:53:21 836: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:53:21 836: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:53:21 836: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:53:21 836:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:53:21 836:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:53:21 836:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:53:21 836:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:53:21 836:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:53:21 836:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:53:21 836:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:53:21 836:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:53:21 836:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1704:37)
+2022-01-06 11:53:21 836:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1680:41) {
+2022-01-06 11:53:21 836:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:53:21 836:   requireStack: [
+2022-01-06 11:53:21 836:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:53:21 836:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:53:21 836:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:53:21 836:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:53:21 836:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:53:21 836:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:53:21 836:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:53:21 836:   ]
+2022-01-06 11:53:21 836: }
+2022-01-06 11:53:21 846: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:53:21 846: Require stack:
+2022-01-06 11:53:21 846: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:53:21 846: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:53:21 846: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:53:21 846: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:53:21 846: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:53:21 846: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:53:21 846: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:53:21 846:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:53:21 846:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:53:21 846:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:53:21 846:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:53:21 846:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:53:21 846:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:53:21 846:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:53:21 846:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:53:21 846:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1709:37)
+2022-01-06 11:53:21 846:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1651:41) {
+2022-01-06 11:53:21 847:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:53:21 847:   requireStack: [
+2022-01-06 11:53:21 847:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:53:21 847:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:53:21 847:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:53:21 847:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:53:21 847:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:53:21 847:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:53:21 847:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:53:21 847:   ]
+2022-01-06 11:53:21 847: }
+2022-01-06 11:53:21 850: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:53:21 850: Require stack:
+2022-01-06 11:53:21 850: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:53:21 850: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:53:21 850: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:53:21 850: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:53:21 850: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:53:21 850: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:53:21 850: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:53:21 850:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:53:21 850:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:53:21 850:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:53:21 850:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:53:21 850:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:53:21 850:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:53:21 850:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:53:21 850:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:53:21 850:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1602:39)
+2022-01-06 11:53:21 850:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1219:38) {
+2022-01-06 11:53:21 850:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:53:21 850:   requireStack: [
+2022-01-06 11:53:21 850:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:53:21 850:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:53:21 850:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:53:21 850:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:53:21 851:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:53:21 851:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:53:21 851:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:53:21 851:   ]
+2022-01-06 11:53:21 851: }
+2022-01-06 11:53:21 854: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:53:21 854: Require stack:
+2022-01-06 11:53:21 854: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:53:21 854: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:53:21 854: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:53:21 854: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:53:21 854: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:53:21 854: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:53:21 854: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:53:21 854:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:53:21 854:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:53:21 854:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:53:21 854:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:53:21 854:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:53:21 854:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:53:21 854:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:53:21 854:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:53:21 854:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1704:37)
+2022-01-06 11:53:21 854:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1680:41) {
+2022-01-06 11:53:21 854:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:53:21 854:   requireStack: [
+2022-01-06 11:53:21 854:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:53:21 854:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:53:21 854:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:53:21 854:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:53:21 854:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:53:21 854:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:53:21 854:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:53:21 854:   ]
+2022-01-06 11:53:21 854: }
+2022-01-06 11:53:59 630: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:53:59 630: Require stack:
+2022-01-06 11:53:59 630: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:53:59 631: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:53:59 631: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:53:59 631: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:53:59 631: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:53:59 631: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:53:59 631: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:53:59 631:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:53:59 631:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:53:59 631:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:53:59 631:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:53:59 631:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:53:59 631:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:53:59 631:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:53:59 631:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:53:59 631:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1709:37)
+2022-01-06 11:53:59 631:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1651:41) {
+2022-01-06 11:53:59 631:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:53:59 631:   requireStack: [
+2022-01-06 11:53:59 631:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:53:59 631:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:53:59 631:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:53:59 631:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:53:59 631:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:53:59 631:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:53:59 631:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:53:59 631:   ]
+2022-01-06 11:53:59 631: }
+2022-01-06 11:53:59 632: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:53:59 632: Require stack:
+2022-01-06 11:53:59 632: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:53:59 632: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:53:59 632: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:53:59 633: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:53:59 633: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:53:59 633: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:53:59 633: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:53:59 633:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:53:59 633:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:53:59 633:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:53:59 633:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:53:59 633:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:53:59 633:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:53:59 633:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:53:59 633:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:53:59 633:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1602:39)
+2022-01-06 11:53:59 633:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1219:38) {
+2022-01-06 11:53:59 633:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:53:59 633:   requireStack: [
+2022-01-06 11:53:59 633:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:53:59 633:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:53:59 633:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:53:59 633:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:53:59 633:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:53:59 633:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:53:59 633:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:53:59 633:   ]
+2022-01-06 11:53:59 633: }
+2022-01-06 11:54:02 336: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:54:02 336: Require stack:
+2022-01-06 11:54:02 336: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:54:02 336: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:54:02 336: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:54:02 336: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:54:02 336: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:54:02 336: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:54:02 336: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:54:02 336:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:54:02 336:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:54:02 336:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:54:02 336:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:54:02 336:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:54:02 336:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:54:02 336:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:54:02 336:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:54:02 336:     at Server.renderErrorToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1709:37)
+2022-01-06 11:54:02 336:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1651:41) {
+2022-01-06 11:54:02 336:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:54:02 336:   requireStack: [
+2022-01-06 11:54:02 336:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:54:02 336:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:54:02 336:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:54:02 336:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:54:02 336:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:54:02 336:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:54:02 336:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:54:02 336:   ]
+2022-01-06 11:54:02 336: }
+2022-01-06 11:54:02 339: Error: Cannot find module 'C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\.next\server\pages\_document.js'
+2022-01-06 11:54:02 339: Require stack:
+2022-01-06 11:54:02 339: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js
+2022-01-06 11:54:02 339: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js
+2022-01-06 11:54:02 339: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js
+2022-01-06 11:54:02 339: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next.js
+2022-01-06 11:54:02 339: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\lib\start-server.js
+2022-01-06 11:54:02 340: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\cli\next-start.js
+2022-01-06 11:54:02 340: - C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\bin\next
+2022-01-06 11:54:02 340:     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+2022-01-06 11:54:02 340:     at Function.mod._resolveFilename (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\build\webpack\require-hook.js:171:28)
+2022-01-06 11:54:02 340:     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+2022-01-06 11:54:02 340:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-01-06 11:54:02 340:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-01-06 11:54:02 340:     at Object.requirePage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\require.js:48:12)
+2022-01-06 11:54:02 340:     at Object.loadComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\load-components.js:56:23)
+2022-01-06 11:54:02 340:     at Server.findPageComponents (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1243:63)
+2022-01-06 11:54:02 340:     at Server.renderToResponse (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1602:39)
+2022-01-06 11:54:02 340:     at pipe.req.req (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\next-server.js:1219:38) {
+2022-01-06 11:54:02 340:   code: 'MODULE_NOT_FOUND',
+2022-01-06 11:54:02 340:   requireStack: [
+2022-01-06 11:54:02 340:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\require.js',
+2022-01-06 11:54:02 340:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\load-components.js',
+2022-01-06 11:54:02 340:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next-server.js',
+2022-01-06 11:54:02 340:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\next.js',
+2022-01-06 11:54:02 340:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\server\\lib\\start-server.js',
+2022-01-06 11:54:02 340:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\cli\\next-start.js',
+2022-01-06 11:54:02 340:     'C:\\Users\\trung\\Desktop\\VFAST\\VFAST_MUSIC\\node_modules\\next\\dist\\bin\\next'
+2022-01-06 11:54:02 340:   ]
+2022-01-06 11:54:02 340: }
+2022-01-06 15:45:17 203: TypeError: (0 , react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV) is not a function
+2022-01-06 15:45:17 205:     at MyApp (webpack-internal:///./src/pages/_app.tsx:33:89)
+2022-01-06 15:45:17 205:     at d (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:33:498)
+2022-01-06 15:45:17 205:     at bb (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:36:16)
+2022-01-06 15:45:17 205:     at a.b.render (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:42:43)
+2022-01-06 15:45:17 205:     at a.b.read (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:41:83)
+2022-01-06 15:45:17 205:     at Object.exports.renderToString (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:52:138)
+2022-01-06 15:45:17 205:     at Object.renderPage (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\render.js:686:46)
+2022-01-06 15:45:17 205:     at Object.defaultGetInitialProps (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\server\render.js:316:51)
+2022-01-06 15:45:17 205:     at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:191:16)
+2022-01-06 15:45:17 205:     at Object.loadGetInitialProps (C:\Users\trung\Desktop\VFAST\VFAST_MUSIC\node_modules\next\dist\shared\lib\utils.js:69:29)

@@ -1,0 +1,33 @@
+@import '../../asset/scss/color.scss';
+
+.main__app_music {
+	opacity: 1;
+	border-top: solid 1px $color3;
+	border-bottom: solid 1px $color3;
+	padding-bottom: 1rem;
+	margin-top: 50px;
+}
+.action {
+	display: flex;
+	justify-content: space-between;
+}
+
+.track {
+	display: flex;
+	gap: 10px;
+	color: $white;
+	text-align: start;
+	align-items: center;
+
+	font-size: 16px;
+	font-weight: 500;
+	cursor: pointer;
+	&:hover {
+		background-color: rgba(255, 255, 255, 0.4);
+	}
+}
+.buttonplay {
+	align-items: center;
+	height: 5rem;
+	margin: 0px 1rem;
+}

@@ -1,0 +1,129 @@
+@import '../../../asset/scss/color.scss';
+
+.nav_container {
+	display: flex;
+	margin: auto;
+	padding: 0 4rem;
+	justify-content: space-between;
+}
+
+.nav {
+	position: fixed;
+	background-color: $black;
+	color: $white;
+	// padding: 0 4rem;
+	height: 80px;
+	width: 100%;
+	z-index: 10;
+	top: 0;
+	left: 0;
+	.title {
+		color: $white;
+		font-weight: 700;
+		cursor: pointer;
+		margin: 0px;
+		line-height: 80px;
+	}
+	.menu__item {
+		position: relative;
+		font-family: 'Lato', sans-serif;
+		text-transform: uppercase;
+		color: rgb(116, 116, 116);
+		font-size: 14px;
+		padding: 8px 2px;
+		margin: 20px;
+		cursor: pointer;
+		span {
+			&::hover {
+				color: #fff;
+			}
+		}
+		&::after {
+			position: absolute;
+			left: 0;
+			bottom: -1px;
+			width: 0;
+			height: 2px;
+			background: $primary;
+			content: '';
+			transition: width 0.2s;
+		}
+		&:hover::after {
+			width: 100%;
+			color: #fff;
+		}
+	}
+	.active {
+		color: white;
+	}
+	.navbar__toggle {
+		display: none;
+		font-size: 25px;
+		cursor: pointer;
+	}
+	.navbar__toggle {
+		&:hover,
+		&:focus {
+			color: $color1;
+		}
+	}
+
+	.hideonpc {
+		display: none;
+	}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 1020px) {
+	.nav_container {
+		display: flex;
+		margin: unset;
+		padding-left: 0rem;
+		padding-right: 0rem;
+		justify-content: space-between;
+		align-items: center;
+		margin:0px 20px;
+	}
+	.nav {
+		.navbar__toggle {
+			display: block;
+		}
+		.collapse {
+			background-color: black;
+		}
+		.collapse .menu {
+			display: flex;
+		}
+		.menu {
+			display: none;
+			flex-direction: column;
+			position: absolute;
+			background-color: $white;
+			top: 100%;
+			left: 0;
+			right: 0;
+			border-top: solid 1px $color2;
+			padding: 15px 20px 20px 20px;
+			.menu__item {
+				margin: 5px 0;
+				padding: 5px 2px;
+				cursor: pointer;
+				color:white;
+				font-size: 24px;
+			}
+		}
+	}
+	.menu223 {
+		display: flex !important;
+		position: fixed;
+		flex-direction: column;
+		top: 80px;
+		left: 0;
+		right: 0;
+		background-color: #0F0F0F;
+		
+	}
+	.hideonmobile {
+		display: none;
+	}
+}
